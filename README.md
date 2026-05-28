@@ -27,41 +27,41 @@ To what extent is AI adoption associated with cross-border e-commerce performanc
 
 ### Dashboard overview
 
-![Dashboard](screenshots/dashboard_overview.png)
+![Dashboard](Visualizations/dashboard_overview.png)
 
 ### AI adoption across EU countries
 
-![AI Adoption Map](screenshots/ai_adoption_map.png)
+![AI Adoption Map](Visualizations/ai_adoption_map.png)
 
 A pronounced North-South / West-East gradient: digitally advanced economies (Denmark, Finland, Sweden) consistently lead, while several Central and Eastern European countries lag behind.
 
 ### AI adoption vs B2C e-commerce
 
-![AI vs B2C scatter](screenshots/ai_vs_b2c_scatter.png)
+![AI vs B2C scatter](Visualizations/ai_vs_b2c_scatter.png)
 
 A clear positive association between AI adoption and B2C e-commerce participation across EU member states.
 
 ### AI intensity (≥2 technologies) vs B2C e-commerce
 
-![AI intensity vs B2C](screenshots/ai_intensity_vs_b2c_scatter.png)
+![AI intensity vs B2C](Visualizations/ai_intensity_vs_b2c_scatter.png)
 
 The relationship remains qualitatively similar when using a stricter measure (firms using at least two AI technologies).
 
 ### B2B vs B2C e-commerce
 
-![B2B vs B2C](screenshots/b2b_vs_b2c_chart.png)
+![B2B vs B2C](Visualizations/b2b_vs_b2c_chart.png)
 
 B2C participation is consistently higher than B2B — the link between AI adoption and digital trade is stronger for consumer-facing activities.
 
 ### Evolution of B2C e-commerce in selected EU countries
 
-![B2C evolution](screenshots/b2c_evolution_lineplot.png)
+![B2C evolution](Visualizations/b2c_evolution_lineplot.png)
 
 Heterogeneous development paths: Denmark and Finland lead with stable, mature levels; Romania lags despite recent growth; Poland follows an intermediate trajectory.
 
 ### Currency context vs B2C e-commerce
 
-![Currency vs B2C](screenshots/currency_vs_b2c.png)
+![Currency vs B2C](Visualizations/currency_vs_b2c.png)
 
 Cross-border e-commerce continues to grow even as the EUR weakens against major external currencies (USD, GBP, CNY), suggesting resilience of digital trade.
 
@@ -92,4 +92,4 @@ Cross-border e-commerce continues to grow even as the EUR weakens against major 
 2. Open `ESC2026_Data_Challenge_PowerBI.pbix`
 3. Use slicers to filter by country and year
 
-For a quick overview without installing Power BI, see the screenshots above and the full report in `docs/report.pdf`.
+For a quick overview without installing Power BI, see the screenshots above and the full report in `Docs/ESC2026_Data_Challenge_Report.pdf`.
